@@ -48,10 +48,10 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |        Roblox offen      |    Game starten     |        Game bereit zum spielen           |
-| ...  |        Game zum ersten mal geöffnet      |    Keine     |        Kleines tuturial           |
-| ...  |        Game geöffnet      |    Keine     |         Es gibt eine währung          |
-| ...  |        Game geöffnet      |    Spiel gestartet     |      Die Ameisenbären sollen gut aussehen             |
-| ...  |        Game geöffnet      |    Spiel gestartet     |      Man bekommt einen Ressourcengenerator             |
+| 2.1  |        Game zum ersten mal geöffnet      |    Keine     |        Kleines tuturial           |
+| 3.1  |        Game geöffnet      |    Keine     |         Es gibt eine währung          |
+| 4.1  |        Game geöffnet      |    Spiel gestartet     |      Die Ameisenbären sollen gut aussehen             |
+| 5.1  |        Game geöffnet      |    Spiel gestartet     |      Man bekommt einen Ressourcengenerator             |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
