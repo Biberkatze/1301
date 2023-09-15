@@ -10,7 +10,7 @@ Alai, Cedric Tuma, Luca Jeanneret, Fabian Meyer und Elias Spycher
 
 ## 1 Informieren
 
-Wir haben uns überlegt, was mir machen wollen un sind in der Aufgabenstellung auf den Verweiss auf Roblux gekommen. Für dies haben wir uns auch entschieden.
+Wir haben uns überlegt, was mir machen wollen un sind in der Aufgabenstellung auf den Verweiss auf Roblux gekommen. Für dies haben wir uns auch entschieden. Für das genauere Game haben wir uns einen Ameisenbär Tycoon [here](https://de.wikipedia.org/wiki/Tycoon) vorgestellt, dies wäre gut umsetzbar und wäre auch auf einem guten Schwierigkeitslevel 
 
 ### 1.1 Ihr Projekt
 
