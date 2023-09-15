@@ -54,7 +54,8 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 
 ### 1.4 Diagramme
 
-![Screenshot thing12023-09-15 091626](https://github.com/Biberkatze/1301/assets/110892742/13b73729-95f2-46dc-97eb-5cb4179b1b4f)
+![Screenshot besserLA1301 2023-09-15 093958](https://github.com/Biberkatze/1301/assets/110892742/c88d2d72-9406-4ad3-b4da-676031a69759)
+
 
 
 ## 2 Planen
