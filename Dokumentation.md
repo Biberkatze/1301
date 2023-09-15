@@ -30,11 +30,11 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 | 4  |        muss         |   Qualität   | Als Nutzer will ich, dass die Ameisenbären gut modelliert wurden und cool aussehen, damit das Spiel gut aussieht.     |
 | 5  |        muss         |   Funktional   | Als Nutzer will ich, dass ich zum Anfang einen ersten Resourcengenerator habe für erstes Einkommen, damit ich direkt anfangen kann. |
 | 6  |        muss         |   Funktional   | Als Nutzer möchte ich, dass mit viele verschiedene Upgrades zur Verfügung stehen, damit ich eine Progression habe.    |
-| 7  |        muss         |      |                                    |
-| 8  |                 |      |                                    |
-| 9  |                 |      |                                    |
-| 10  |                 |      |                                    |
-| 11  |                 |      |                                    |
+| 7  |        muss         |  Qualität    | Als Nutzer möchte ich, dass es mehrere Stufen hat im Tycoon, damit es länger geht. |
+| 8  |        kann          |  Funktional    |  Als Nutzer möchte ich, dass verschiedene Waffen kaufen, damit ich andere töten kann.  |
+| 9  |       muss          |  Funktional    |  Als Nutzer möchte ich, dass es mehrere Orte des Tycoons hat, damit ich mein Tycoon an andere Orte machen kann.  |
+| 10  |       muss    | Funktional     | Als Nutzer möchte ich, dass es einen Mehrspielermodus hat, damit ich mit Freunden spielen kann. |
+| 11  |       kann    |  Qualität    |  Als Nutzer möchte ich, dass es Achievements gibt, damit ich mehr spass habe.   |
 | 12  |                 |      |                                    |
 | 13  |                 |      |                                    |
 | 14  |                 |      |                                    |
