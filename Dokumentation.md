@@ -29,8 +29,8 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 | 3  |        muss         |   Funktional   | Als Nutzer will ich, dass es eine Währung gibt, damit ich Sachen kaufen kann.           |
 | 4  |        muss         |   Qualität   | Als Nutzer will ich, dass die Ameisenbären gut modelliert wurden und cool aussehen, damit das Spiel gut aussieht.     |
 | 5  |        muss         |   Funktional   | Als Nutzer will ich, dass ich zum Anfang einen ersten Resourcengenerator habe für erstes Einkommen, damit ich direkt anfangen kann. |
-| 6  |                 |      |                                    |
-| 7  |                 |      |                                    |
+| 6  |        muss         |   Funktional   | Als Nutzer möchte ich, dass mit viele verschiedene Upgrades zur Verfügung stehen, damit ich eine Progression habe.    |
+| 7  |        muss         |      |                                    |
 | 8  |                 |      |                                    |
 | 9  |                 |      |                                    |
 | 10  |                 |      |                                    |
