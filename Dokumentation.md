@@ -24,9 +24,9 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |       muss          |      | Als Nutzer möchte ich, dass ich das Game starten kann, um es zu spielen |
-| 2  |                 |      |                                    |
-| 3  |                 |      |                                    |
+| 1    |       muss          |   Funktional   | Als Nutzer möchte ich, dass ich das Game starten kann, um es zu spielen. |
+| 2  |        muss    |   Funktional   |  Als Nutzer möchte ich , dass man ein kleines Toturial bekommt, was man machen muss und was das Ziel ist, um zu wissen wie man spielt. |
+| 3  |        muss         |   Funktional   | Als Nutzer will ich,            |
 | 4  |                 |      |                                    |
 | 5  |                 |      |                                    |
 | 6  |                 |      |                                    |
