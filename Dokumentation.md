@@ -22,23 +22,26 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |       muss          |   Funktional   | Als Nutzer möchte ich, dass ich das Game starten kann, um es zu spielen. |
-| 2  |        muss    |   Funktional   |  Als Nutzer möchte ich , dass man ein kleines Toturial bekommt, was man machen muss und was das Ziel ist, um zu wissen wie man spielt. |
-| 3  |        muss         |   Funktional   | Als Nutzer will ich, dass es eine Währung gibt, damit ich Sachen kaufen kann.           |
-| 4  |        muss         |   Qualität   | Als Nutzer will ich, dass die Ameisenbären gut modelliert wurden und cool aussehen, damit das Spiel gut aussieht.     |
-| 5  |        muss         |   Funktional   | Als Nutzer will ich, dass ich zum Anfang einen ersten Resourcengenerator habe für erstes Einkommen, damit ich direkt anfangen kann. |
-| 6  |        muss         |   Funktional   | Als Nutzer möchte ich, dass mit viele verschiedene Upgrades zur Verfügung stehen, damit ich eine Progression habe.    |
-| 7  |        muss         |  Qualität    | Als Nutzer möchte ich, dass es mehrere Stufen hat im Tycoon, damit es länger geht. |
-| 8  |        kann          |  Funktional    |  Als Nutzer möchte ich, dass verschiedene Waffen kaufen, damit ich andere töten kann.  |
-| 9  |       muss          |  Funktional    |  Als Nutzer möchte ich, dass es mehrere Orte des Tycoons hat, damit ich mein Tycoon an andere Orte machen kann.  |
-| 10  |       muss    | Funktional     | Als Nutzer möchte ich, dass es einen Mehrspielermodus hat, damit ich mit Freunden spielen kann. |
-| 11  |       kann    |  Qualität    |  Als Nutzer möchte ich, dass es Achievements gibt, damit ich mehr spass habe.   |
-| 12  |         muss    | Qualität| Als Nutzer möchte ich, dass das Game ist, damit ich die Map entdecken kann. |
-| 13  |          kann   | Randbedingung | Als Nutzer möchte ich, dass es Eastereggs um die Map hat, damit ich sie entdecken kann.  |
-| 14  |       kann       | Randbedingung | Als Nutzer möchte ich, dass ich Gamepasses kaufen kann mit Robux, damit meine Progression schneller wird. |
-| 15  |       kann   | Randbedingung | Als Nutzer möchte ich, dass ich Admin Commands mit Robux kaufen, damit ich Admin Commands habe. |
+| US-№ | Verbindlichkeit | Typ | Beschreibung |
+| ---- | --------------- | --- | -------------- |
+| 1    | muss | Funktional | Als Nutzer möchte ich, dass ich das Game starten kann, um es zu spielen. |
+| 2    | muss | Funktional | Als Nutzer möchte ich, dass man ein kleines Tutorial bekommt, was man machen muss und was das Ziel ist, um zu wissen, wie man spielt. |
+| 3    | muss | Funktional | Als Nutzer will ich, dass es eine Währung gibt, damit ich Sachen kaufen kann. |
+| 4    | muss | Qualität | Als Nutzer will ich, dass die Ameisenbären gut modelliert wurden und cool aussehen, damit das Spiel gut aussieht. |
+| 5    | muss | Funktional | Als Nutzer will ich, dass ich am Anfang einen ersten Ressourcengenerator habe, um erstes Einkommen zu generieren und direkt beginnen zu können. |
+| 6    | muss | Funktional | Als Nutzer möchte ich, dass viele verschiedene Upgrades zur Verfügung stehen, damit ich eine Progression im Spiel habe. |
+| 7    | muss | Qualität | Als Nutzer möchte ich, dass das Spiel mehrere Stufen im Tycoon-Modus hat, damit der Spielspaß länger anhält. |
+| 8    | muss | Funktional | Als Nutzer möchte ich, dass es mehrere Standorte für mein Tycoon gibt, damit ich mein Geschäft an verschiedenen Orten aufbauen kann. |
+| 9    | muss | Funktional | Als Nutzer möchte ich, dass das Spiel einen Mehrspielermodus hat, damit ich mit meinen Freunden spielen kann. |
+| 10   | kann | Qualität | Als Nutzer möchte ich, dass es Achievements gibt, um zusätzlichen Spaß und Herausforderungen im Spiel zu haben. |
+| 11   | muss | Qualität | Als Nutzer möchte ich, dass das Spiel erkundbare Karten enthält, damit ich die Welt des Ameisenbär-Tycoons entdecken kann. |
+| 12   | kann | Randbedingung | Als Nutzer möchte ich, dass es Geheimnisse (Eastereggs) auf der Karte gibt, die ich entdecken kann, um die Erforschung spannender zu gestalten. |
+| 13   | kann | Randbedingung | Als Nutzer möchte ich die Möglichkeit haben, Gamepasses mit Robux zu kaufen, um meine Spielfortschritte zu beschleunigen. ||
+| 14   | muss | Qualität | Als Nutzer möchte ich regelmäßige Updates im Spiel sehen, um die Spielerfahrung kontinuierlich zu verbessern. |
+| 15   | kann | Qualität | Als Nutzer möchte ich, dass das Spiel eine ansprechende Hintergrundmusik und Soundeffekte bietet, um die Atmosphäre zu verbessern. |
+| 16   | muss | Funktional | Als Nutzer möchte ich, dass es regelmäßige Sicherungsoptionen gibt, um meinen Spielfortschritt nicht zu verlieren. |
+| 17   | kann | Qualität | Als Nutzer möchte ich, dass ich einen Gamepass kaufen kann, damit ich den Namen der Ameisenbären verändern kann. |
+
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
