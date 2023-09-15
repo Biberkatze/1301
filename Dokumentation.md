@@ -1,16 +1,16 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Alai, Cedric Tuma, Luca Jeanneret, Fabian Meyer und Elias Spycher
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|       | 0.0.1   |                                                              |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
+
+Wir haben uns überlegt, was mir machen wollen un sind in der Aufgabenstellung auf den Verweiss auf Roblux gekommen. Für dies haben wir uns auch entschieden.
 
 ### 1.1 Ihr Projekt
 
