@@ -14,9 +14,9 @@ Wir haben uns überlegt, was mir machen wollen un sind in der Aufgabenstellung a
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ein Ameisenbär Tycoongame, in dem man immer mächtiger wird und das grösste Ameisenbärmonopol aufbauen kann.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender, eine professionelle grafikdesign Plattform, Roblox Studios und mehr. In dem Tycoon soll man verschiedene Ameisenbären kaufen und verwalten. Es sollte Möglichkeiten geben diesen Futter zu geben und neue Technologien freischalten zu können um mehr Geld zu verdienen um noch mehr Tiere zu kaufen. Es sollte Käufe mit Echtgeld geben um In-App-Käufe zu tätigen und somit auch ein wenig Geld zu verdienen.
 
 ### 1.2 User Stories
 
