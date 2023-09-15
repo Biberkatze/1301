@@ -35,10 +35,10 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 | 9  |       muss          |  Funktional    |  Als Nutzer möchte ich, dass es mehrere Orte des Tycoons hat, damit ich mein Tycoon an andere Orte machen kann.  |
 | 10  |       muss    | Funktional     | Als Nutzer möchte ich, dass es einen Mehrspielermodus hat, damit ich mit Freunden spielen kann. |
 | 11  |       kann    |  Qualität    |  Als Nutzer möchte ich, dass es Achievements gibt, damit ich mehr spass habe.   |
-| 12  |                 |      |                                    |
-| 13  |                 |      |                                    |
-| 14  |                 |      |                                    |
-| 15  |                 |      |                                    |
+| 12  |         muss    | Qualität| Als Nutzer möchte ich, dass das Game ist, damit ich die Map entdecken kann. |
+| 13  |          kann   | Randbedingung | Als Nutzer möchte ich, dass es Eastereggs um die Map hat, damit ich sie entdecken kann.  |
+| 14  |       kann       | Randbedingung | Als Nutzer möchte ich, dass ich Gamepasses kaufen kann mit Robux, damit meine Progression schneller wird. |
+| 15  |       kann   | Randbedingung | Als Nutzer möchte ich, dass ich Admin Commands mit Robux kaufen, damit ich Admin Commands habe. |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
