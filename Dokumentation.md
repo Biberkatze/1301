@@ -54,7 +54,8 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![Screenshot thing12023-09-15 091626](https://github.com/Biberkatze/1301/assets/110892742/13b73729-95f2-46dc-97eb-5cb4179b1b4f)
+
 
 ## 2 Planen
 
