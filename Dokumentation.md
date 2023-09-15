@@ -4,9 +4,11 @@ Alai, Cedric Tuma, Luca Jeanneret, Fabian Meyer und Elias Spycher
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   |                                                              |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|   15.09.2023    | 0.0.1   |    Wir haben das Projekt geplant    |
+|   22.09.2023    | ...     |                                                              |
+|   29.09.2023    | 1.0.0   |                                                              |
+|   27.10.2023    | 1.0.0   |                                                              |
+|   03.11.2023    | 1.0.0   |                                                              |
 
 ## 1 Informieren
 
@@ -22,8 +24,22 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |       muss          |      | Als Nutzer möchte ich, dass ich das Game starten kann, um es zu spielen |
+| 2  |                 |      |                                    |
+| 3  |                 |      |                                    |
+| 4  |                 |      |                                    |
+| 5  |                 |      |                                    |
+| 6  |                 |      |                                    |
+| 7  |                 |      |                                    |
+| 8  |                 |      |                                    |
+| 9  |                 |      |                                    |
+| 10  |                 |      |                                    |
+| 11  |                 |      |                                    |
+| 12  |                 |      |                                    |
+| 13  |                 |      |                                    |
+| 14  |                 |      |                                    |
+| 15  |                 |      |                                    |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
