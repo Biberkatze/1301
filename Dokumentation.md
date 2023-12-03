@@ -101,10 +101,35 @@ Die neuen Anforderungen und Testfälle sind hier neu aufgeführt
 
 ## 4 Realisieren
 
+## 4 Realisieren
+
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |21.10.23 | Luca J.W. |   45 min            |        45 min           |
+| 2.A  |21.10.23| Luca J.W. |    30 min           |        30 min           |
+| 3.A  |21.10.23| Cedic Tuma |    30 min           |       30 min            |
+| 4.A  |21.10.23| Luca J.W. |     45 min          |         45 min          |
+| 5.A  |21.10.23| Alle  |    30 min           |             30 min      |
+| 6.A  |28.10.23| Luca J.W. |   30 min            |        30 min           |
+| 7.A  |21.10.23| Fabian Meyer|    100 min           |     100 mi              |
+| 8.A  |21.10.23|Cedic Tuma/ Fabian Meyer|   180 min            |    360 min               |
+| 9.A  |28.10.23|Fabian Meyer/ Elias Spycher|     240 min          |     480 min              |
+| 10.A  |28.10.23|Luca J.W. |   60 min            |         60 min          |
+| 10.B  |28.10.23|Luca J.W. |   60 min            |         60 min          |
+| 10.C  |04.11.23|Luca J.W. |    60 min           |        60 min           |
+| 11.C  |28.10.23|Cedic Tuma |    180 min           |        180 min           |
+| 12.A  |28.10.23|Elias Spycher|  150 min             |      150 min             |
+| 13.A  |04.11.23|Luca J.W.|   120 min      |       120 min            |
+| 14.A  |04.11.23|Elias Spycher|  180 min       |      180 min             |
+| 14.B  |04.11.23|Cedic Tuma |    90 min    |       90 min            |
+| 14.c  |04.11.23|Luca J.W. |      30 min         |    30 min               |
+| 15.A  |04.11.23|Cedic Tuma |    90 min   |     90 min              |
+| 15.B  |04.11.23|Luca J.W. |     30 min     |      30 min             |
+| 16.A  |04.11.23|Fabian Meyer |    180 min           |    180 min               |
+| 17.A  |11.11.23|Luca J.W. |       180 min        |      180 min             |
+| 18.A  |11.11.23|Cedric Tuma |     180 min          |    180 min               |
+| 19.A  |11.11.23|Fabian Meyer |     180 min          |    180 min               |
+| 20.A  |11.11.23|Elias Spycher |     180 min          |    180 min               |
 
 ## 5 Testprotokoll
 
