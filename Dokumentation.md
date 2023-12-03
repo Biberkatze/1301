@@ -132,7 +132,7 @@ Die neuen Anforderungen und Testfälle sind hier neu aufgeführt
 
 
 | TC-№ | Testfall Nr. | Datum | Resultat | Tester | Bemerkung | Unterschrift |
-| ---- | ----- | --------- | ------------- | ----------------- | ----------- |
+| ---- | ------------ | ----- | -------- | -------| --------- | ------------ |
 | 1.A  |       |     0.3.12.2023      |               |                   |             |
 | ...  |       |     0.3.12.2023      |               |                   |             |
 | 1.A  |       |     0.3.12.2023      |               |                   |             |
