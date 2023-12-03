@@ -66,16 +66,37 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| AP-№ | Frist    | Zuständig      | Beschreibung                                    | Geplante Zeit |
+| ---- | -------- | -------------- | ----------------------------------------------- | ------------- |
+| 1.A  | 21.10.23 | Luca J.W.      | User Stories schreiben                          | 45 min        |
+| 2.A  | 21.10.23 | Luca J.W.      | Testfälle schreiben                             | 30 min        |
+| 3.A  | 21.10.23 | Cedic Tuma     | Use-Case-Diagramm erstellen                     | 30 min        |
+| 4.A  | 21.10.23 | Luca J.W.      | Planung erstellen                               | 45 min        |
+| 5.A  | 21.10.23 | Alle           | Roblox Studio installieren/starten und alle im Spiel haben | 30 min        |
+| 6.A  | 28.10.23 | Luca J.W.      | Wege für verschiedene Orte im Spiel erstellen   | 30 min        |
+| 7.A  | 21.10.23 | Fabian Meyer    | Förderbandsystem erstellen                      | 100 min       |
+| 8.A  | 21.10.23 | Cedic Tuma/ Fabian Meyer | Geldcounter und Geld erstellen           | 180 min       |
+| 9.A  | 28.10.23 | Fabian Meyer/ Elias Spycher | Upgrader und Geldspawner erstellen   | 240 min       |
+| 10.A | 28.10.23 | Luca J.W.      | Gebäude für den Kauf von Alais erstellen       | 60 min        |
+| 10.B | 28.10.23 | Luca J.W.      | Gebäude für die Futterbeschaffung für Alais erstellen | 60 min        |
+| 10.C | 04.11.23 | Luca J.W.      | Gebäude für die Abholzung erstellen             | 60 min        |
+| 11.A | 28.10.23 | Cedic Tuma     | GUI erstellen                                   | 180 min       |
+| 12.A | 28.10.23 | Elias Spycher  | Einen Wald platzieren                           | 150 min       |
+| 13.B | 04.11.23 | Luca J.W.      | Den Wald verschönern                            | 120 min       |
+| 14.A | 04.11.23 | Elias Spycher  | Micao erstellen                                 | 180 min       |
+| 14.B | 04.11.23 | Cedic Tuma     | Micao Hunt erstellen                            | 90 min        |
+| 14.C | 04.11.23 | Luca J.W.      | Micaos verstecken                               | 30 min        |
+| 15.A | 04.11.23 | Cedic Tuma     | Gnome Hunt erstellen                            | 90 min        |
+| 15.B | 04.11.23 | Luca J.W.      | Gnomes verstecken                               | 30 min        |
+| 16.A | 04.11.23 | Fabian Meyer    | Tutorial programmieren                           | 180 min       |
+| 17.A | 11.11.23 | Luca J.W.      | Gebäude für den Tycoon erstellen                | 180 min       |
+| 18.A | 11.11.23 | Cedric Tuma     | Achievements erstellen                          | 180 min       |
+| 19.A | 11.11.23 | Fabian Meyer    | Gamepass erstellen                              | 180 min       |
+| 20.A | 11.11.23 | Elias Spycher   | Easter Eggs hinzufügen                          | 180 min       |
 
-Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
+Total: 2680 min
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
