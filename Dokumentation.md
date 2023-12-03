@@ -101,8 +101,6 @@ Die neuen Anforderungen und Testfälle sind hier neu aufgeführt
 
 ## 4 Realisieren
 
-## 4 Realisieren
-
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |21.10.23 | Luca J.W. |   45 min            |        45 min           |
