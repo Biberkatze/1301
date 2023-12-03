@@ -5,10 +5,10 @@ Cedric Tuma, Luca Jeanneret, Fabian Meyer und Elias Spycher
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   15.09.2023    | 0.0.1   |    Wir haben das Projekt geplant    |
-|   22.09.2023    | 0.0.2   |    Wir haben realisiert                                                          |
-|   29.09.2023    | 0.1.1   |    Wir haben realisiert                                                           |
-|   27.10.2023    | 0.1.2   |    Wir haben realisiert                                                           |
-|   03.11.2023    | 1.0.0   |    Wir haben realisiert                                                          |
+|   22.09.2023    | 0.0.2   |    Wir haben realisiert             |
+|   29.09.2023    | 0.1.1   |    Wir haben realisiert             |
+|   27.10.2023    | 0.1.2   |    Wir haben realisiert             |
+|   03.11.2023    | 1.0.0   |    Wir haben realisiert             |
 
 ## 1 Informieren
 
@@ -36,8 +36,6 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 | 10   | muss | Qualität | Als Nutzer möchte ich, dass das Spiel eine erkundbare Map enthält, damit ich mich bewegen kann auf der Karte. |
 | 11   | kann | Randbedingung | Als Nutzer möchte ich, dass es Geheimnisse (Eastereggs) auf der Karte gibt, die ich entdecken kann, um die Erforschung spannender zu gestalten. |
 
-
-
 ### 1.3 Testfallspezifikationen
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -55,8 +53,6 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 | 10.11|        Game geöffnet      |    -    |      geladene Map mit Umgebung             |
 | 11.12|        Game geöffnet      |    -    |      AEastereggs auf der Map versteckt             |
 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -110,39 +106,25 @@ Die neuen Anforderungen und Testfälle sind hier neu aufgeführt
 | 1.A  |       |           |               |                   |
 | ...  |       |           |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
-
 ## 5 Testprotokoll
 
-| TC-№ | Testfall Nr.  | Datum | Resultat | Tester | Bemerkung | Unterschrift |
-| ---- | ------------  | ------| -------- | -------- |--------|------------|------------|
-| 1.2  |               |   0.3.12.2023    |          |        |           |              |
-| ---- | -----         |   0.3.12.2023    |          |        |           |              |
-|      |               |   0.3.12.2023    |          |        |           |              |
-| ---- | -----         |   0.3.12.2023    |          |        |           |              |
-| ---- | -----         |   0.3.12.2023    |          |        |           |              |
-| ---- | -----         |   0.3.12.2023    |          |        |           |              |
-| ---- | -----         |   0.3.12.2023    |          |        |           |              |
-| ---- | -----         |   0.3.12.2023    |          |        |           |              |
-| ---- | -----         |   0.3.12.2023    |          |        |           |              |
-| ---- | -----         |   0.3.12.2023    |          |        |           |              |
-| ---- | -----         |   0.3.12.2023    |          |        |           |              |
-| ---- | -----         |   0.3.12.2023    |          |        |           |              |
+| TC-№ | Datum | Tester | Resultat | Bemerkung | Unterschrift |
+| ---- | ----- | -------- | -------| --------- | ------------ |
+| 1.1  |            0.3.12.2023      |   Elias Spycher   |   OK       |          -         |     ALA     |        
+| 2.1  |            0.3.12.2023      |   Elias Spycher   |   NOK      |         Spiel selbsterklärend          |     ALA    |           
+| 3.1  |            0.3.12.2023      |   Elias Spycher   |   OK        |         -          |     ALA     |           
+| 4.1  |            0.3.12.2023      |   Elias Spycher   |   OK         |                   |     ALA     |           
+| 5.1  |            0.3.12.2023      |   Elias Spycher   |   NOK         |      es wird nicht angezeigt            |     ALA     |          
+| 6.1  |            0.3.12.2023      |   Elias Spycher   |   NOK         |      Keine Ameisenbären implementiert, Micao Game erstellt             |     ALA     |         
+| 7.1  |            0.3.12.2023      |   Elias Spycher   |   OK         |       -            |     ALA     |          
+| 8.1  |            0.3.12.2023      |   Elias Spycher   |   NOK         |      Upgrade wird nicht gemacht             |     ALA     |        
+| 9.1  |           0.3.12.2023       |   Elias Spycher   |   OK        |        -           |     ALA     |          
+| 10.1  |           0.3.12.2023      |   Elias Spycher   |   NOK         |        Achievements nicht implementiert           |     ALA     |        
+| 11.1  |           0.3.12.2023      |   Elias Spycher   |   OK        |          -         |     ALA     |        
+| 11.1  |           0.3.12.2023      |   Elias Spycher   |   OK        |          -         |     ALA     |   
 
+## 6 Testbericht
 
-
-| TC-№ | Testfall Nr. | Datum | Resultat | Tester | Bemerkung | Unterschrift |
-| ---- | ------------ | ----- | -------- | -------| --------- | ------------ |
-| 1.A  |       |     0.3.12.2023      |               |                   |             |
-| ...  |       |     0.3.12.2023      |               |                   |             |
-| 1.A  |       |     0.3.12.2023      |               |                   |             |
-| 1.A  |       |     0.3.12.2023      |               |                   |             |
-| 1.A  |       |     0.3.12.2023      |               |                   |             |
-| 1.A  |       |     0.3.12.2023      |               |                   |             |
-| 1.A  |       |     0.3.12.2023     |               |                   |             |
-| 1.A  |       |     0.3.12.2023     |               |                   |             |
-| 1.A  |       |     0.3.12.2023    |               |                   |             |
-| 1.A  |       |     0.3.12.2023     |               |                   |             |
-
-
-
+Viele Teile des geplanten konnten nicht umgsetzt werden. 
+Testfälle 2, 5, 6, 8 und 10 funktionieren allesamt nicht.
+Der Tycoon ist somit nicht wirklich spielbar und braucht noch viel Überarbeitung und Fehlerbehebungen.
