@@ -115,7 +115,7 @@ Die neuen Anforderungen und Testfälle sind hier neu aufgeführt
 ## 5 Testprotokoll
 
 | TC-№ | Testfall Nr.  | Datum | Resultat | Tester | Bemerkung | Unterschrift |
-|      |      ||  |||
+| ---- | ------------  | ------| -------- | -------- |--------|------------|------------|
 | 1.2  |               |   0.3.12.2023    |          |        |           |              |
 | ---- | -----         |   0.3.12.2023    |          |        |           |              |
 |      |               |   0.3.12.2023    |          |        |           |              |
