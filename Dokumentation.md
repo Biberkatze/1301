@@ -64,31 +64,31 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 
 | AP-№ | Frist    | Zuständig      | Beschreibung                                    | Geplante Zeit |
 | ---- | -------- | -------------- | ----------------------------------------------- | ------------- |
-| 1.A  | 21.10.23 | Luca J.W.      | User Stories schreiben                          | 45 min        |
-| 2.A  | 21.10.23 | Luca J.W.      | Testfälle schreiben                             | 30 min        |
-| 3.A  | 21.10.23 | Cedic Tuma     | Use-Case-Diagramm erstellen                     | 30 min        |
-| 4.A  | 21.10.23 | Luca J.W.      | Planung erstellen                               | 45 min        |
-| 5.A  | 21.10.23 | Alle           | Roblox Studio installieren/starten und alle im Spiel haben | 30 min        |
-| 6.A  | 28.10.23 | Luca J.W.      | Wege für verschiedene Orte im Spiel erstellen   | 30 min        |
-| 7.A  | 21.10.23 | Fabian Meyer    | Förderbandsystem erstellen                      | 100 min       |
-| 8.A  | 21.10.23 | Cedic Tuma/ Fabian Meyer | Geldcounter und Geld erstellen           | 180 min       |
-| 9.A  | 28.10.23 | Fabian Meyer/ Elias Spycher | Upgrader und Geldspawner erstellen   | 240 min       |
-| 10.A | 28.10.23 | Luca J.W.      | Gebäude für den Kauf von Alais plaziert       | 60 min        |
-| 10.B | 28.10.23 | Luca J.W.      | Gebäude für die Futterbeschaffung für Alais platziert | 60 min        |
-| 10.C | 04.11.23 | Luca J.W.      | Gebäude für die Abholzung platziert             | 60 min        |
-| 11.A | 28.10.23 | Cedic Tuma     | GUI erstellen                                   | 180 min       |
-| 12.A | 28.10.23 | Elias Spycher  | Einen Wald platzieren                           | 150 min       |
-| 13.A | 04.11.23 | Luca J.W.      | Den Wald verschönern                            | 120 min       |
-| 14.A | 04.11.23 | Elias Spycher  | Micao erstellen                                 | 180 min       |
-| 14.B | 04.11.23 | Cedic Tuma     | Micao Hunt erstellen                            | 90 min        |
-| 14.C | 04.11.23 | Luca J.W.      | Micaos verstecken                               | 30 min        |
-| 15.A | 04.11.23 | Cedic Tuma     | Gnome Hunt erstellen                            | 90 min        |
-| 15.B | 04.11.23 | Luca J.W.      | Gnomes verstecken                               | 30 min        |
-| 16.A | 04.11.23 | Fabian Meyer    | Tutorial programmieren                           | 180 min       |
-| 17.A | 11.11.23 | Luca J.W.      | Gebäude für den Tycoon erstellen                | 180 min       |
-| 18.A | 11.11.23 | Cedric Tuma     | Achievements erstellen                          | 180 min       |
-| 19.A | 11.11.23 | Fabian Meyer    | Gamepass erstellen                              | 180 min       |
-| 20.A | 11.11.23 | Elias Spycher   | Easter Eggs hinzufügen                          | 180 min       |
+| 1.A  | 15.09.23 | Luca J.W.      | User Stories schreiben                          | 45 min        |
+| 2.A  | 15.09.23 | Luca J.W.      | Testfälle schreiben                             | 30 min        |
+| 3.A  | 15.09.23 | Cedic Tuma     | Use-Case-Diagramm erstellen                     | 30 min        |
+| 4.A  | 15.09.23 | Luca J.W.      | Planung erstellen                               | 45 min        |
+| 5.A  | 15.09.23 | Alle           | Roblox Studio installieren/starten und alle im Spiel haben | 30 min        |
+| 6.A  | 22.09.23 | Luca J.W.      | Wege für verschiedene Orte im Spiel erstellen   | 30 min        |
+| 7.A  | 22.09.23 | Fabian Meyer    | Förderbandsystem erstellen                      | 100 min       |
+| 8.A  | 22.09.23 | Cedic Tuma/ Fabian Meyer | Geldcounter und Geld erstellen           | 180 min       |
+| 9.A  | 27.10.23 | Fabian Meyer/ Elias Spycher | Upgrader und Geldspawner erstellen   | 240 min       |
+| 10.A | 27.10.23 | Luca J.W.      | Gebäude für den Kauf von Alais plaziert       | 60 min        |
+| 10.B | 27.10.23 | Luca J.W.      | Gebäude für die Futterbeschaffung für Alais platziert | 60 min        |
+| 10.C | 29.09.23 | Luca J.W.      | Gebäude für die Abholzung platziert             | 60 min        |
+| 11.A | 29.09.23 | Cedic Tuma     | GUI erstellen                                   | 180 min       |
+| 12.A | 29.09.23 | Elias Spycher  | Einen Wald platzieren                           | 150 min       |
+| 13.A | 27.10.23 | Luca J.W.      | Den Wald verschönern                            | 120 min       |
+| 14.A | 27.10.23 | Elias Spycher  | Micao erstellen                                 | 180 min       |
+| 14.B | 27.10.23 | Cedic Tuma     | Micao Hunt erstellen                            | 90 min        |
+| 14.C | 27.10.23 | Luca J.W.      | Micaos verstecken                               | 30 min        |
+| 15.A | 27.10.23 | Cedic Tuma     | Gnome Hunt erstellen                            | 90 min        |
+| 15.B | 27.10.23 | Luca J.W.      | Gnomes verstecken                               | 30 min        |
+| 16.A | 27.10.23 | Fabian Meyer    | Tutorial programmieren                           | 180 min       |
+| 17.A | 03.11.23 | Luca J.W.      | Gebäude für den Tycoon erstellen                | 180 min       |
+| 18.A | 03.11.23 | Cedric Tuma     | Achievements erstellen                          | 180 min       |
+| 19.A | 03.11.23 | Fabian Meyer    | Gamepass erstellen                              | 180 min       |
+| 20.A | 03.11.23 | Elias Spycher   | Easter Eggs hinzufügen                          | 180 min       |
 
 
 Total: 2680 min
@@ -103,26 +103,26 @@ Die neuen Anforderungen und Testfälle sind hier neu aufgeführt
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |21.10.23 | Luca J.W. |   45 min            |        45 min           |
-| 2.A  |21.10.23| Luca J.W. |    30 min           |        30 min           |
-| 3.A  |21.10.23| Cedic Tuma |    30 min           |       30 min            |
-| 4.A  |21.10.23| Luca J.W. |     45 min          |         45 min          |
-| 5.A  |21.10.23| Alle  |    30 min           |             30 min      |
-| 6.A  |28.10.23| Luca J.W. |   30 min            |        30 min           |
-| 7.A  |21.10.23| Fabian Meyer|    100 min           |     100 mi              |
-| 8.A  |21.10.23|Cedic Tuma/ Fabian Meyer|   180 min            |    360 min               |
-| 9.A  |28.10.23|Fabian Meyer/ Elias Spycher|     240 min          |     480 min              |
-| 10.A  |28.10.23|Luca J.W. |   60 min            |         60 min          |
-| 10.B  |28.10.23|Luca J.W. |   60 min            |         60 min          |
-| 10.C  |04.11.23|Luca J.W. |    60 min           |        60 min           |
+| 1.A  |15.09.23 | Luca J.W. |   45 min            |        45 min           |
+| 2.A  |15.09.23| Luca J.W. |    30 min           |        30 min           |
+| 3.A  |15.09.23| Cedic Tuma |    30 min           |       30 min            |
+| 4.A  |15.09.23| Luca J.W. |     45 min          |         45 min          |
+| 5.A  |15.09.23| Alle  |    30 min           |             30 min      |
+| 6.A  |22.09.23| Luca J.W. |   30 min            |        30 min           |
+| 7.A  |22.09.23| Fabian Meyer|    100 min           |     100 mi              |
+| 8.A  |22.09.23|Cedic Tuma/ Fabian Meyer|   180 min            |    360 min               |
+| 9.A  |27.10.23|Fabian Meyer/ Elias Spycher|     240 min          |     480 min              |
+| 10.A  |27.10.23|Luca J.W. |   60 min            |         60 min          |
+| 10.B  |27.10.23|Luca J.W. |   60 min            |         60 min          |
+| 10.C  |27.10.23|Luca J.W. |    60 min           |        60 min           |
 | 11.C  |28.10.23|Cedic Tuma |    180 min           |        180 min           |
 | 12.A  |28.10.23|Elias Spycher|  150 min             |      150 min             |
 | 13.A  |04.11.23|Luca J.W./ Elias Spycher|   120 min      |       120 min            |
 | 14.A  |04.11.23|Elias Spycher |  180 min       |      180 min             |
 | 14.B  |04.11.23|Elias Spycher |    90 min    |       90 min            |
-| 14.c  |04.11.23|Luca J.W. |      30 min         |    30 min               |
-| 15.A  |04.11.23|Cedic Tuma |    90 min   |     90 min              |
-| 15.B  |04.11.23|Luca J.W. |     30 min     |      30 min             |
+| 14.c  |03.11.2023|Luca J.W. |      30 min         |    30 min               |
+| 15.A  |03.11.2023|Cedic Tuma |    90 min   |     90 min              |
+| 15.B  |03.11.2023|Luca J.W. |     30 min     |      30 min             |
 
 ## 5 Testprotokoll
 
