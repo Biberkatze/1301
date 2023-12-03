@@ -73,12 +73,12 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 | 7.A  | 21.10.23 | Fabian Meyer    | Förderbandsystem erstellen                      | 100 min       |
 | 8.A  | 21.10.23 | Cedic Tuma/ Fabian Meyer | Geldcounter und Geld erstellen           | 180 min       |
 | 9.A  | 28.10.23 | Fabian Meyer/ Elias Spycher | Upgrader und Geldspawner erstellen   | 240 min       |
-| 10.A | 28.10.23 | Luca J.W.      | Gebäude für den Kauf von Alais erstellen       | 60 min        |
-| 10.B | 28.10.23 | Luca J.W.      | Gebäude für die Futterbeschaffung für Alais erstellen | 60 min        |
-| 10.C | 04.11.23 | Luca J.W.      | Gebäude für die Abholzung erstellen             | 60 min        |
+| 10.A | 28.10.23 | Luca J.W.      | Gebäude für den Kauf von Alais plaziert       | 60 min        |
+| 10.B | 28.10.23 | Luca J.W.      | Gebäude für die Futterbeschaffung für Alais platziert | 60 min        |
+| 10.C | 04.11.23 | Luca J.W.      | Gebäude für die Abholzung platziert             | 60 min        |
 | 11.A | 28.10.23 | Cedic Tuma     | GUI erstellen                                   | 180 min       |
 | 12.A | 28.10.23 | Elias Spycher  | Einen Wald platzieren                           | 150 min       |
-| 13.B | 04.11.23 | Luca J.W.      | Den Wald verschönern                            | 120 min       |
+| 13.A | 04.11.23 | Luca J.W.      | Den Wald verschönern                            | 120 min       |
 | 14.A | 04.11.23 | Elias Spycher  | Micao erstellen                                 | 180 min       |
 | 14.B | 04.11.23 | Cedic Tuma     | Micao Hunt erstellen                            | 90 min        |
 | 14.C | 04.11.23 | Luca J.W.      | Micaos verstecken                               | 30 min        |
@@ -117,17 +117,12 @@ Die neuen Anforderungen und Testfälle sind hier neu aufgeführt
 | 10.C  |04.11.23|Luca J.W. |    60 min           |        60 min           |
 | 11.C  |28.10.23|Cedic Tuma |    180 min           |        180 min           |
 | 12.A  |28.10.23|Elias Spycher|  150 min             |      150 min             |
-| 13.A  |04.11.23|Luca J.W.|   120 min      |       120 min            |
-| 14.A  |04.11.23|Elias Spycher|  180 min       |      180 min             |
-| 14.B  |04.11.23|Cedic Tuma |    90 min    |       90 min            |
+| 13.A  |04.11.23|Luca J.W./ Elias Spycher|   120 min      |       120 min            |
+| 14.A  |04.11.23|Elias Spycher |  180 min       |      180 min             |
+| 14.B  |04.11.23|Elias Spycher |    90 min    |       90 min            |
 | 14.c  |04.11.23|Luca J.W. |      30 min         |    30 min               |
 | 15.A  |04.11.23|Cedic Tuma |    90 min   |     90 min              |
 | 15.B  |04.11.23|Luca J.W. |     30 min     |      30 min             |
-| 16.A  |04.11.23|Fabian Meyer |    180 min           |    180 min               |
-| 17.A  |11.11.23|Luca J.W. |       180 min        |      180 min             |
-| 18.A  |11.11.23|Cedric Tuma |     180 min          |    180 min               |
-| 19.A  |11.11.23|Fabian Meyer |     180 min          |    180 min               |
-| 20.A  |11.11.23|Elias Spycher |     180 min          |    180 min               |
 
 ## 5 Testprotokoll
 
