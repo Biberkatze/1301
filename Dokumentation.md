@@ -51,7 +51,7 @@ In diesem Projekt lernen wir mehrere neue Technologien kennen, darunter Blender,
 | 8.9  |        Game geöffnet      |    -    |      Fruende können Joinen           |
 | 9.10 |        Etwas spezielles gemacht      |    -    |      Achievemt claimed             |
 | 10.11|        Game geöffnet      |    -    |      geladene Map mit Umgebung             |
-| 11.12|        Game geöffnet      |    -    |      AEastereggs auf der Map versteckt             |
+| 11.12|        Game geöffnet      |    -    |      Eastereggs auf der Map versteckt             |
 
 
 ### 1.4 Diagramme
